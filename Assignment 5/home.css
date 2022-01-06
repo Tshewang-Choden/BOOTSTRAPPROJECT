@@ -1,0 +1,17 @@
+nav{
+    background-color: aliceblue;
+    color: black;
+}
+body{
+    background: linear-gradient(45deg,rgba(255,225,255,0.3),rgba(255,78,70,0.1)),url('f3.jpg');
+    background-size:cover;
+}
+h1{
+    text-align:center;
+    color:darkblue;
+    font-weight: 600;
+}
+h2{
+    text-align: center;
+    color:black;
+}

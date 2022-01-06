@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(46deg,rgba(255, 255, 255, 0.815),rgba(255,119,20,0.3));
+
+}
+h1{
+    text-align: center;
+    color:red;
+}
+
+p{
+    color: dodgerblue;
+}
